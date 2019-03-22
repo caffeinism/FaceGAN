@@ -1,4 +1,4 @@
-# Face rotation and facial transformation with GAN.
+# Face rotation and facial expression transformation with GAN.
 
 Recently, a number of papers have attempted to transformation faces. However, those papers require a specific set of data, such as MultiPIE, which are heavy and expensive! I wanted to have a similar effect with plain data sets.
 
