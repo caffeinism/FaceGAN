@@ -15,3 +15,11 @@ I am still working on it, and the method and code will commit later.
 ![viusalized](images/result.png)
 
 It is getting better.
+
+## Reference
+
+[LightCNN](https://github.com/AlfredXiangWu/LightCNN)
+
+[CycleGAN](https://github.com/clcarwin/sphereface_pytorch)
+
+[GAN_stability](https://github.com/LMescheder/GAN_stability)
