@@ -5,7 +5,7 @@ parser.add_argument('--dataset_dir', type=str, default='../VGGFace2/train_normal
 parser.add_argument('--landmark_dir', type=str, default='../VGGFace2/train_normal_landmark/')   # landmark dataset directory
 parser.add_argument('--result_dir', type=str, default='result')                                 # log image save directory
 parser.add_argument('--model_dir', type=str, default='model')                                   # trained model save directory
-parser.add_argument('--light_cnn', type=str, default='models/LightCNN_9Layers.pth')             # pretrained light cnn model path
+parser.add_argument('--light_cnn', type=str, default='light_cnn/LightCNN_9Layers.pth')             # pretrained light cnn model path
 parser.add_argument('--resume', type=str, default='')                                           # load model path if exist
 
 parser.add_argument('--image_size', type=int, default=128)  # image size
