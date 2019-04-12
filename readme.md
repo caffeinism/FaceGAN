@@ -4,6 +4,12 @@ Recently, a number of papers have attempted to transformation faces. However, th
 
 I am still working on it, and the method and code will commit later.
 
+## Approach
+
+![loss_adv](images/loss_adv.png)
+
+![loss_cycle](images/loss_cycle.png)
+
 ## Requirements
 
 - Python3
