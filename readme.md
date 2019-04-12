@@ -39,3 +39,8 @@ It is getting better.
 [CycleGAN](https://github.com/clcarwin/sphereface_pytorch)
 
 [GAN_stability](https://github.com/LMescheder/GAN_stability)
+
+## TODO list
+- [ ] Providing pretrained weights
+- [ ] Adding video samples
+- [ ] Adding ambiguous conditional method
