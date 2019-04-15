@@ -41,6 +41,6 @@ It is getting better.
 [GAN_stability](https://github.com/LMescheder/GAN_stability)
 
 ## TODO list
-- [ ] Providing pretrained weights
-- [ ] Adding video samples
-- [ ] Adding ambiguous conditional method
+- [ ] add pretrained weights
+- [ ] add video samples
+- [ ] add ambiguous conditional method
